@@ -1,0 +1,15 @@
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ChangeMyWallpaper.exe.config
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ChangeMyWallpaper.exe
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ChangeMyWallpaper.pdb
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\FlickrNet.dll
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SmallBasicLibrary.dll
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SmallBasicLibrary.xml
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ChangeMyWallpaper.csprojResolveAssemblyReference.cache
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ChangeMyWallpaper.Properties.Resources.resources
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ChangeMyWallpaper.csproj.GenerateResource.Cache
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ChangeMyWallpaper.exe
+c:\users\enrico\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ChangeMyWallpaper.pdb
+C:\Users\enrico\Desktop\Programação e Git\Visual C++\ChangeMyWallpaper\ChangeMyWallpaper\bin\Debug\ChangeMyWallpaper.exe.config
+C:\Users\enrico\Desktop\Programação e Git\Visual C++\ChangeMyWallpaper\ChangeMyWallpaper\obj\Debug\ChangeMyWallpaper.exe
+C:\Users\enrico\Desktop\Programação e Git\Visual C++\ChangeMyWallpaper\ChangeMyWallpaper\obj\Debug\ChangeMyWallpaper.pdb
